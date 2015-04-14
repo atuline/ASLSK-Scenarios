@@ -2,6 +2,8 @@
 
 **By:** Andrew Tuline
 
+**Email:** atuline@gmail.com
+
 **Date:** April, 2015
 
 These scenario setups are for ASL Starter Kits #1 through #3 as well as additional SK scenarios downloaded from MMP at:
